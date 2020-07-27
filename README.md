@@ -42,7 +42,7 @@ Always concerned with keeping up with technologies, he is frequently taking cour
 	</g>
 </g>
 </svg>
-
+</a>
 <a
     href="https://twitter.com/rodolfodella" 
     alt="Twitter"
