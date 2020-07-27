@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Rodolfo! 👋
 
-I'm graduated in Information Systems in 2011 by the University Center Barriga Verde, specializing in Engineering and Software Architecture in 2015 by Estácio University and currently, he was master's degree in the Post-Graduate Program in Information and Communication Technologies at the Federal University of Santa Catarina, has a CTO position at the institution where he works.
+Graduated in Information Systems in 2011 by the University Center Barriga Verde, specializing in Engineering and Software Architecture in 2015 by Estácio University and currently, he was master's degree in the Post-Graduate Program in Information and Communication Technologies at the Federal University of Santa Catarina, has a CTO position at the institution where he works.
 
-I have experience as a database administrator, systems analyst, mobile application developer having already developed and published personal and commercial applications on Google Play and Apple Store and also as a Java consultant. During his career, he has participated in several technology events as a listener or speaker in addition to teaching in technology courses at a technical and higher level.
+He has experience as a database administrator, systems analyst, mobile application developer having already developed and published personal and commercial applications on Google Play and Apple Store and also as a Java consultant. During his career, he has participated in several technology events as a listener or speaker in addition to teaching in technology courses at a technical and higher level.
 
 Always concerned with keeping up with technologies, he is frequently taking courses online or attending to improve his professional and personal skills. He sees himself as a calm, responsible and organized person, and in his spare time likes to take pictures and practise physical exercises. 
 
