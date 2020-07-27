@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I'm Rodolfo! 👋
+### About Rodolfo
 
 Graduated in Information Systems in 2011 by the University Center Barriga Verde, specializing in Engineering and Software Architecture in 2015 by Estácio University and currently, he was master's degree in the Post-Graduate Program in Information and Communication Technologies at the Federal University of Santa Catarina, has a CTO position at the institution where he works.
 
@@ -72,5 +72,5 @@ Always concerned with keeping up with technologies, he is frequently taking cour
 <p align="center">
   Java | Android | Angular | Docker | Nginx | SQL | Postgres | SQL Server
 </p>
-<h5 align="center"> I'm from <b>Santa Catarina</b>, <b>Brazil</b>  
+<h5 align="center"> He's from <b>Santa Catarina</b>, <b>Brazil</b>  
 </h5>
